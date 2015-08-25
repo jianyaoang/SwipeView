@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C5C7C36-DC87-4F18-A0F0-C5A207C0EAFE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwipeView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B5AC17B35147A1BD43A8C52FD06042921638DDB</key>
+		<string>https://github.com/jianyaoang/SwipeView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwipeView.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B5AC17B35147A1BD43A8C52FD06042921638DDB</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jianyaoang/SwipeView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B5AC17B35147A1BD43A8C52FD06042921638DDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B5AC17B35147A1BD43A8C52FD06042921638DDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwipeView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
